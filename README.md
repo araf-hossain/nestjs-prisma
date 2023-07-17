@@ -26,6 +26,15 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## What inside
+
+There is nothing much I have done in this project so far. It is a learning project.
+
+- Simple CRUD operation. Singup, Singin and getUser.
+- Prisma DB integrated.
+- Hashing user password with Argon.
+- NestJS guards (Auth Guards)
+
 ## Installation
 
 ```bash
@@ -45,28 +54,13 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
-## Test
-
-```bash
-# unit tests
-$ yarn run test
-
-# e2e tests
-$ yarn run test:e2e
-
-# test coverage
-$ yarn run test:cov
-```
-
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Araf Hossain](https://www.linkedin.com/in/mdarafhossain/)
 
 ## License
 
